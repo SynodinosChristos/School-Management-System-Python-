@@ -31,8 +31,9 @@
 Average grade in Math 101: 85.00
 ```
 
+---
 
-##📂 Project Structure
+## 📂 Project Structure
 .
 ├── main.py                     # Demo script with sample data
 ├── classes_and_functions.py    # Core logic (Person/Student/Teacher/Course classes)
