@@ -21,9 +21,11 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/school-management-system.git
-2.Execute: python main.py
-3.See demo output: Μαρία's GPA: 90.00
-                   Average grade in Math 101: 85.00
+2.Execute: 
+python main.py
+3.See demo output: 
+Μαρία's GPA: 90.00
+Average grade in Math 101: 85.00
 
 
 📂 Project Structure
