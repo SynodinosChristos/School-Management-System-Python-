@@ -21,22 +21,21 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/school-management-system.git
-2.Execute: 
+2. Execute: 
    ```bash
    python main.py
    ```
-3.See demo output:
-```bash
-Μαρία's GPA: 90.00
-Average grade in Math 101: 85.00
-```
+3. See demo output:
+   ```bash
+   Μαρία's GPA: 90.00
+   Average grade in Math 101: 85.00
+   ```
 
 ---
 
 ## 📂 Project Structure
-.
-├── main.py                     # Demo script with sample data
-├── classes_and_functions.py    # Core logic (Person/Student/Teacher/Course classes)
-├── students_data.txt           # Generated student records
-├── teachers_data.txt           # Generated teacher records
-└── courses_data.txt            # Generated course records
+- ├── main.py                     # Demo script with sample data
+- ├── classes_and_functions.py    # Core logic (Person/Student/Teacher/Course classes)
+- ├── students_data.txt           # Generated student records
+- ├── teachers_data.txt           # Generated teacher records
+- └── courses_data.txt            # Generated course records
