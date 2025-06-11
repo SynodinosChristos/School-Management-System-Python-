@@ -20,7 +20,7 @@
 ## 🛠️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/school-management-system.git
+   git clone https://github.com/SynodinosChristos/School-Management-System-Python-.git
 2. Execute: 
    ```bash
    python main.py
